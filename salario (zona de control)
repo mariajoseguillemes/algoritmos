@@ -17,7 +17,7 @@
 +	   suma=suma+sb;
 +	  }
 +	   else
-+	   {if((sb>2*sm)&&(sb<1500))
++	   {if((sb>2*sm)&&(sb<15000))
 +	     {sb=sb-(sb*afp)-(sb*iva);
 +	      suma=suma+sb;
 +	     }
